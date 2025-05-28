@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" center="40%" src="https://leetcode-badge-showcase.vercel.app/api?username=seifmaged&theme=transparent&border=border&animated=true" alt="LeetCode Badges" />
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seifmaged/seifmaged/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seifmaged/seifmaged/output/github-snake.svg" />
