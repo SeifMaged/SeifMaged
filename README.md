@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seifmaged&label=Profile%20views&color=000000&style=flat" alt="Profile Views" /> 
+</p>
+
 
 
 <img align="right" width="40%" src="https://leetcode-badge-showcase.vercel.app/api?username=seifmaged&theme=transparent&border=border&animated=true&filter=submission" alt="LeetCode Badges" />
