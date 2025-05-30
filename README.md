@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seifmaged&label=Profile%20views&color=000000&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=seifmaged&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" /> 
 </p>
 
 
