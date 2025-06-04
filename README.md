@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/seifmaged/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
-  <a href="https://leetcode.com/SeifMaged/"><img src="https://img.shields.io/badge/LeetCode-SeifMaged-FFA116?style=for-the-badge&logo=leetcode"/></a>
-  
+  <a href="https://leetcode.com/SeifMaged/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-SeifMaged-FFA116?style=for-the-badge&logo=leetcode"/></a>
 </p>
 
 
