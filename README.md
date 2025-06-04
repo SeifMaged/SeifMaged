@@ -1,6 +1,14 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/seifmaged/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/></a>
+  <a href="https://leetcode.com/SeifMaged/"><img src="https://img.shields.io/badge/LeetCode-SeifMaged-FFA116?style=for-the-badge&logo=leetcode"/></a>
+  
+</p>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seifmaged&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=seifmaged&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
+</p>
+
 </p>
 
 
