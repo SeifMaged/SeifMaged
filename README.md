@@ -9,7 +9,7 @@
 
 
 <div align="left">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=seifmaged&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=seifmaged&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </div>
 
 
