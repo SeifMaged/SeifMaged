@@ -13,7 +13,7 @@
 
 
 
-<img align="right" width="40%" src="https://leetcode-badge-showcase.vercel.app/api?username=seifmaged&theme=transparent&border=border&animated=true&filter=submission" alt="LeetCode Badges" />
+<img align="right" width="40%" src="https://leetcode-badge-showcase.vercel.app/api?username=seifmaged&theme=transparent&border=border&filter=submission" alt="LeetCode Badges" />
 
 
 <div align="left">
